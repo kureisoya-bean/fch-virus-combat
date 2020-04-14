@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Nunito;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ant-select-selector {
+  border-radius: 10px !important;
+}
+
+.ant-input-suffix {
+  display: flex;
+  align-items: center;
+}
+
+.ant-form-item-has-error .ant-form-item-explain,
+.ant-form-item-has-error .ant-form-item-split {
+  margin-left: 20px;
+  max-width: 350px;
+}
+
+.Polaris-Button--primary {
+  background: #6979f8 !important;
+  border-color: #4959d8 !important;
+  /* border: none !important; */
+}
